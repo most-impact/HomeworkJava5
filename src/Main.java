@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println();
         //Task 3
-        for (int i = 0; i < 17; i++) {
+        for (int i = 0; i < 18; i++) {
             if (i % 2 == 0) {
                 System.out.println(i);
             }
